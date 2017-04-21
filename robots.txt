@@ -1,0 +1,8 @@
+User-agent: *
+
+Sitemap: http://domain/index-sitemap.xml
+Disallow: /privacy-policy
+Disallow: /dmca-notice
+Disallow: /contact-us
+Disallow: /disclaimer
+Disallow: /faq
