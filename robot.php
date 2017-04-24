@@ -1,6 +1,6 @@
 <?php
 // error_reporting(0);
-include ('inc/config.php');
+include ('inc/connect.php');
 
 /* ==> Generating Robots.txt starts HERE <== */
 header("Content-Type:text/plain");
