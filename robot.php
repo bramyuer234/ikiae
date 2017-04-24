@@ -8,5 +8,4 @@ echo 'User-agent: *
 
 Sitemap: '.$site_url.'/file-index.xml'Disallow: /privacy-policy','Disallow: /dmca-notice', 'Disallow: /contact-us', 'Disallow: /disclaimer', 'Disallow: /faq';
 
-
 ?>
